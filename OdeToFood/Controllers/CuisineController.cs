@@ -15,7 +15,7 @@ namespace OdeToFood.Controllers
         {
             var msg = Server.HtmlEncode(name);
 
-            return File(Server.MapPath("~/Content/site.css"), "text/css");
+            return Json(new { Message = msg, Name = "Cesar" }, JsonRequestBehavior.AllowGet);
         }
 
     }
