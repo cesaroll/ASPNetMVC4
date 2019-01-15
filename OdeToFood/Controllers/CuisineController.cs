@@ -15,7 +15,7 @@ namespace OdeToFood.Controllers
         {
             var msg = Server.HtmlEncode(name);
 
-            return Content(msg);
+            return RedirectPermanent("http://www.microsoft.com");
         }
 
     }
