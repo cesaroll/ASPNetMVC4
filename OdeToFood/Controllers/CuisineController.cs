@@ -15,7 +15,7 @@ namespace OdeToFood.Controllers
         {
             var msg = Server.HtmlEncode(name);
 
-            return RedirectToAction("Index", "Home", new { name = name });
+            return File(Server.MapPath("~/Content/site.css"), "text/css");
         }
 
     }
