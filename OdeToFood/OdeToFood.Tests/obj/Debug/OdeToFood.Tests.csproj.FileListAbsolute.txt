@@ -77,6 +77,14 @@ C:\Workspaces\AspNetMvc4\OdeToFood\OdeToFood.Tests\bin\Debug\ko\System.Spatial.r
 C:\Workspaces\AspNetMvc4\OdeToFood\OdeToFood.Tests\bin\Debug\ru\System.Spatial.resources.dll
 C:\Workspaces\AspNetMvc4\OdeToFood\OdeToFood.Tests\bin\Debug\zh-Hans\System.Spatial.resources.dll
 C:\Workspaces\AspNetMvc4\OdeToFood\OdeToFood.Tests\bin\Debug\zh-Hant\System.Spatial.resources.dll
-C:\Workspaces\AspNetMvc4\OdeToFood\OdeToFood.Tests\obj\Debug\OdeToFood.Tests.csprojResolveAssemblyReference.cache
 C:\Workspaces\AspNetMvc4\OdeToFood\OdeToFood.Tests\obj\Debug\OdeToFood.Tests.dll
 C:\Workspaces\AspNetMvc4\OdeToFood\OdeToFood.Tests\obj\Debug\OdeToFood.Tests.pdb
+C:\Workspaces\AspNetMvc4\OdeToFood\OdeToFood.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Workspaces\AspNetMvc4\OdeToFood\OdeToFood.Tests\bin\Debug\WebMatrix.WebData.dll
+C:\Workspaces\AspNetMvc4\OdeToFood\OdeToFood.Tests\bin\Debug\WebMatrix.Data.dll
+C:\Workspaces\AspNetMvc4\OdeToFood\OdeToFood.Tests\bin\Debug\OdeToFood.dll.config
+C:\Workspaces\AspNetMvc4\OdeToFood\OdeToFood.Tests\bin\Debug\WebMatrix.WebData.xml
+C:\Workspaces\AspNetMvc4\OdeToFood\OdeToFood.Tests\bin\Debug\WebMatrix.Data.xml
+C:\Workspaces\AspNetMvc4\OdeToFood\OdeToFood.Tests\obj\Debug\OdeToFood.Tests.csprojAssemblyReference.cache
+C:\Workspaces\AspNetMvc4\OdeToFood\OdeToFood.Tests\obj\Debug\OdeToFood.Tests.csproj.CoreCompileInputs.cache
+C:\Workspaces\AspNetMvc4\OdeToFood\OdeToFood.Tests\obj\Debug\OdeToFood.Tests.csproj.CopyComplete

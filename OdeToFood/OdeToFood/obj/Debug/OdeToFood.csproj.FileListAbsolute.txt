@@ -80,6 +80,9 @@ C:\Workspaces\AspNetMvc4\OdeToFood\OdeToFood\bin\ko\System.Spatial.resources.dll
 C:\Workspaces\AspNetMvc4\OdeToFood\OdeToFood\bin\ru\System.Spatial.resources.dll
 C:\Workspaces\AspNetMvc4\OdeToFood\OdeToFood\bin\zh-Hans\System.Spatial.resources.dll
 C:\Workspaces\AspNetMvc4\OdeToFood\OdeToFood\bin\zh-Hant\System.Spatial.resources.dll
-C:\Workspaces\AspNetMvc4\OdeToFood\OdeToFood\obj\Debug\OdeToFood.csprojResolveAssemblyReference.cache
 C:\Workspaces\AspNetMvc4\OdeToFood\OdeToFood\obj\Debug\OdeToFood.dll
 C:\Workspaces\AspNetMvc4\OdeToFood\OdeToFood\obj\Debug\OdeToFood.pdb
+C:\Workspaces\AspNetMvc4\OdeToFood\OdeToFood\bin\OdeToFood.dll.config
+C:\Workspaces\AspNetMvc4\OdeToFood\OdeToFood\obj\Debug\OdeToFood.csprojAssemblyReference.cache
+C:\Workspaces\AspNetMvc4\OdeToFood\OdeToFood\obj\Debug\OdeToFood.csproj.CoreCompileInputs.cache
+C:\Workspaces\AspNetMvc4\OdeToFood\OdeToFood\obj\Debug\OdeToFood.csproj.CopyComplete
