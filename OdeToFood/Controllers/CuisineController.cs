@@ -5,11 +5,11 @@ using System.Web;
 using System.Web.Mvc;
 
 namespace OdeToFood.Controllers
-{
+{ 
+    [Authorize]
     public class CuisineController : Controller
     {
         
-        [Authorize]
         public ActionResult Search(string name = "Spanish")
         {
             var msg = Server.HtmlEncode(name);
