@@ -9,19 +9,13 @@ namespace OdeToFood.Controllers
     public class CuisineController : Controller
     {
         
-        [HttpGet]
+        [Authorize]
         public ActionResult Search(string name = "Spanish")
         {
             var msg = Server.HtmlEncode(name);
 
             return Content(msg);
         }
-
-        [HttpPost]
-        public ActionResult Search(object cuisine)
-        {
-
-            return Json(new { name = "French", rank = "Top 10" });
-        }
+        
     }
 }
