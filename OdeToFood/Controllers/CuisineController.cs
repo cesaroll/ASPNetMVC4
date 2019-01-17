@@ -6,12 +6,14 @@ using System.Web.Mvc;
 
 namespace OdeToFood.Controllers
 { 
-    [Authorize]
+    //[Authorize]
     public class CuisineController : Controller
     {
         
         public ActionResult Search(string name = "Spanish")
-        {
+        { 
+            throw new Exception("Something terrible has happened");
+
             var msg = Server.HtmlEncode(name);
 
             return Content(msg);
