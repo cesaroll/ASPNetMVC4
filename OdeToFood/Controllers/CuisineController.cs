@@ -6,20 +6,19 @@ using System.Web;
 using System.Web.Mvc;
 
 namespace OdeToFood.Controllers
-{ 
+{
     //[Authorize]
     [Log]
     public class CuisineController : Controller
     {
+       
         
-        public ActionResult Search(string name = "Spanish")
-        { 
+        public ActionResult Search(string name = "french")
+        {
             throw new Exception("Something terrible has happened");
 
-            var msg = Server.HtmlEncode(name);
-
-            return Content(msg);
-        }
-        
+            var message = Server.HtmlEncode(name);
+            return Content(message);
+        }       
     }
 }
