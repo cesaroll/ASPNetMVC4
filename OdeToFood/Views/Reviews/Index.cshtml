@@ -5,10 +5,11 @@
 
 }
 
+@section featured{
+    We are showing the latest @Model.Count() reviews
+}
+
 <h2>The Latest Reviews</h2>
-
-We are showing the latest @Model.Count() reviews
-
 
 @foreach (var item in Model)
 {
@@ -18,10 +19,6 @@ We are showing the latest @Model.Count() reviews
         <span>@item.Rating</span>
         <p>@item.City, @item.Country</p>
     </div>
-    @*This is a comment*@
-    @*Below is a text to be displayed *@
-    @: }
-    @: Review
 }
 
 

@@ -34,10 +34,12 @@
             </div>
         </header>
         <div id="body">
-            @RenderSection("featured", required: false)
+
             <section class="content-wrapper main-content clear-fix">
                 @RenderBody()
             </section>
+
+            @RenderSection("featured", required: false)
         </div>
         <footer>
             <div class="content-wrapper">
