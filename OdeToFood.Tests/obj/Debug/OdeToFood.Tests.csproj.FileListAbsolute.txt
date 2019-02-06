@@ -1,3 +1,5 @@
+C:\Workspaces\AspNetMvc4\OdeToFood.Tests\obj\Debug\OdeToFood.Tests.csprojAssemblyReference.cache
+C:\Workspaces\AspNetMvc4\OdeToFood.Tests\obj\Debug\OdeToFood.Tests.csproj.CoreCompileInputs.cache
 C:\Workspaces\AspNetMvc4\OdeToFood.Tests\bin\Debug\OdeToFood.Tests.dll.config
 C:\Workspaces\AspNetMvc4\OdeToFood.Tests\bin\Debug\OdeToFood.Tests.dll
 C:\Workspaces\AspNetMvc4\OdeToFood.Tests\bin\Debug\OdeToFood.Tests.pdb
@@ -53,8 +55,6 @@ C:\Workspaces\AspNetMvc4\OdeToFood.Tests\bin\Debug\DotNetOpenAuth.OpenId.xml
 C:\Workspaces\AspNetMvc4\OdeToFood.Tests\bin\Debug\WebMatrix.Data.xml
 C:\Workspaces\AspNetMvc4\OdeToFood.Tests\bin\Debug\Org.Mentalis.Security.Cryptography.xml
 C:\Workspaces\AspNetMvc4\OdeToFood.Tests\bin\Debug\Mono.Math.xml
-C:\Workspaces\AspNetMvc4\OdeToFood.Tests\obj\Debug\OdeToFood.Tests.csprojAssemblyReference.cache
-C:\Workspaces\AspNetMvc4\OdeToFood.Tests\obj\Debug\OdeToFood.Tests.csproj.CoreCompileInputs.cache
 C:\Workspaces\AspNetMvc4\OdeToFood.Tests\obj\Debug\OdeToFood.Tests.csproj.CopyComplete
 C:\Workspaces\AspNetMvc4\OdeToFood.Tests\obj\Debug\OdeToFood.Tests.dll
 C:\Workspaces\AspNetMvc4\OdeToFood.Tests\obj\Debug\OdeToFood.Tests.pdb
